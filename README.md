@@ -21,7 +21,7 @@ To run this application, you need to have the following:
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
+   git clone https://github.com/t9fiction/number-guessing-game.git
    cd number-guessing-game
    ```
 
